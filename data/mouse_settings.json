@@ -1,0 +1,10 @@
+{
+  "dwell_ms": 1200,
+  "smooth": 0.18,
+  "sensitivity": 1.0,
+  "dead_zone": 0.003,
+  "conf_threshold": 0.35,
+  "dwell_enabled": true,
+  "blink_enabled": false,
+  "hotkey_click": ""
+}

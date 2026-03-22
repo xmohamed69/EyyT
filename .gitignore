@@ -1,0 +1,8 @@
+.venv/
+venv/
+env/
+dist/
+build/
+__pycache__/
+*.pyc
+data/face_landmarker.task

@@ -1,0 +1,9 @@
+{
+  "dwell_ms": 2000,
+  "lang_idx": 1,
+  "suggestions_on": false,
+  "debug_landmarks": false,
+  "floating_camera": true,
+  "layout_key": "عربي",
+  "lang_code": "ar"
+}
